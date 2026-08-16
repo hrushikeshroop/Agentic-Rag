@@ -17,7 +17,7 @@ To get started, follow these steps:
 
 1. **Clone the repository**:
     ```sh
-    git clone 
+    git clone https://github.com/hrushikeshroop/Agentic-Rag.git
     cd agentic-rag
     ```
 
